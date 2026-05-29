@@ -1,0 +1,21 @@
+{
+  "name": "adas-law-victorian",
+  "version": "2.0.0",
+  "description": "Ada's Law codified in the Victorian manner. Four operators: -+1 Exchange, -++- 1 Boundary Cross, /m/i/4+1 Mirror/Inverse, /r/ Return. Cubi Advantage. Creator vs Extractor. Gas Is Theft. SVG seal + cube, print styles. No deps.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "David Lee Wise (ROOT0) / TriPod LLC",
+  "license": "CC-BY-ND-4.0",
+  "homepage": "https://github.com/DavidWise01/adas-law-victorian",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DavidWise01/adas-law-victorian.git"
+  },
+  "keywords": [
+    "adas-law", "victorian", "boundary-cross", "cubi-advantage",
+    "creation-vs-extraction", "return-operator", "gas-is-theft",
+    "root0", "tripod"
+  ]
+}
