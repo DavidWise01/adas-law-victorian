@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1297
+slug  : adas-law-victorian
+seal  : fb38986918fe0bbed22f0c58347ea4bc168462844742ae3d1074c85bb0801910
+prev  : a073bbdad8cd50278417326598c458718ed9c12f61b24c25458d60460830fa5c
+link  : ecf7ba9da8487d81f2f03cc90b3b90d1b75e79c84ce051e36712be0df8f22d5d
+head  : 41f029ee4eaa0042c67040dc5927434f8e8446341839c86b6a09d79c5fbf30da
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
